@@ -1,0 +1,7 @@
+
+9
+armeabi-v7a
+-O3 -g -DNDEBUG
+
+ -IC:/ProgramData/Uno/Packages/Fuse.Scripting.V8/0.33.5 -IC:/ProgramData/Uno/Packages/UnoCore/0.33.1/prebuilt/Android/include
+/sources/cxx-stl/stlport/stlport
